@@ -1,2 +1,3 @@
 # hello-world
-Understanding how git works.
+Hello,
+       Anurag here. learning how git works.
